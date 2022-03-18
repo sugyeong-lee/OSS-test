@@ -1,2 +1,2 @@
 print("Hello World!")
-Sugyeong Lee, 202102478, Computer Engineering
+# Sugyeong Lee, 202102478, Computer Engineering
