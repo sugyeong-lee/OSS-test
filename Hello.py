@@ -16,3 +16,5 @@ print("test")
 print("Let's go!")
 
 print("Sugyeong Lee, 202102478, Computer Engineering")
+
+list1 : [1, 2, 3, 4, 5]
