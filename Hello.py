@@ -19,5 +19,5 @@ print("Sugyeong Lee, 202102478, Computer Engineering")
 
 list1 : [1, 2, 3, 4, 5]
 
-  
-  # 오픈소스 2022-1
+print(1)
+print("오픈소스 2022-1")
