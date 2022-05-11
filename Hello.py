@@ -8,5 +8,7 @@ print("Hello World!") # print() 함수를 이용하여 "Hello World!"라는 문�
 
 print("test")
 print("Let's go!")
+print("2022.05.11 프로젝트")
+print("나아가기!")
 
 print("Sugyeong Lee, 202102478, Computer Engineering")
