@@ -16,6 +16,7 @@ print("test")
 print("Let's go!")
 print("Welcome")
 print("Sugyeong Lee, 202102478, Computer Engineering")
+print("현재 진행중")
 
 list1 : [1, 2, 3, 4, 5]
 
